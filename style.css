@@ -5,3 +5,7 @@
     color: red;
     margin: 5px;
 }
+
+.myContainer h1 {
+    font-size: 10px;
+}
